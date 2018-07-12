@@ -1036,6 +1036,91 @@
 														θεῖον ἐαυτοῦ</p>
 												</div>
 											</div>
+											<div
+												n="165v1"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>‡ χάρμη γηθόσυνοι</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.82</p>
+												</div>
+												<div
+													n="comment">
+													<p>χαίροντες τῇ μάχῃ ἔστι δὲ ὅτε δηλοῖ ἡ λέξις καὶ τὸ χαίρειν τῇ εἰς μάχην παραθήξει παρα <rs
+															type="waw">τὸ χαράσσειν</rs>ὴν γὰρ <sic>χώραν</sic>ς φησὶ μ' <persName
+															n="">ἀριστίδης</persName>ὐδ' ἑτέρως ἀει λέγει <rs
+															type="waw">χάρμα</rs>
+													</p>
+												</div>
+											</div>
+											<div
+												n="165v2"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>δάκρυα λεῖβον:</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.88</p>
+												</div>
+												<div
+													n="comment">
+													<p>ἐστέναζον ἐδάκρυον οἱ γὰρ ὀφθαλμοὶ καθ' <persName
+															n="urn:cite2:hmt:pers.v1:pers17">ὅμηρον</persName>πο ταῖς ὀφρύσι <cit>
+															<ref
+																type="urn">urn:cts:greekLit:tlg0012.tlg001:14.236</ref>
+															<q>κοίμησόν μοι <persName
+																	n="urn:cite2:hmt:pers.v1:pers8">ζηνὸς</persName>π οφρύσιν ὅσσε φαεινῷ</q>
+														</cit>, δια δὲ τούτων ἐδάκρυον ἕτεροι δὲ ἤκουσαν λεληθότως ἔκλαιον ⁑</p>
+												</div>
+											</div>
+											<div
+												n="165v3"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>‡ ἁμάς:</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.96</p>
+												</div>
+												<div
+													n="comment">
+													<p>ἡμετέρας, τὸ <rs
+															type="waw">ἀμάς</rs>κτείνεται κατα τὸ τέλος καίτοι <rs
+															n="urn:cite2:hmt:place.v1:place78"
+															type="ethnic">Δόριον</rs>χον τὴν προ τέλούς συλλαβὴν ἐπεὶ ἑνικῷ παράκειται τῷ δια τοῦ <rs
+															type="waw">η</rs>ηγομένῳ, <rs
+															type="waw">ἀμήν</rs>· ὅπερ ὁλόκληρον ἂν ἦν <rs
+															n="urn:cite2:hmt:place.v1:place78"
+															type="ethnic">Δορικὸν</rs>ἴπερ εἰς ἂν κατέληγεν ⁑</p>
+												</div>
+											</div>
+											<div
+												n="165v4"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>νῦν δὴ εἴδεται ἦμαρ ὑπο <rs
+															n="urn:cite2:hmt:place.v1:place6"
+															type="ethnic">Τρώεσσι</rs>αμῆναι·</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.98</p>
+												</div>
+												<div
+													n="comment">
+													<p>νῦν ἀνεφάνη ἡ ἡμέρα ἐν ῇ ὑπὸ τῶν <rs
+															n="urn:cite2:hmt:place.v1:place6"
+															type="ethnic">Τρώων</rs>ναιρεθήσεσθε ⁑</p>
+												</div>
+											</div>
 
         </body>
       </text>
