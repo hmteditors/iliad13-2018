@@ -1782,6 +1782,103 @@
 															n="urn:cite2:hmt:pers.v1:pers281">ἰλιάδης</persName>⁑</p>
 												</div>
 											</div>
+											<div
+												n="168r1"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>
+														<sic>ἤλθε</sic>ατ' ἰγνύην·</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.212</p>
+												</div>
+												<div
+													n="comment">
+													<p>ϊωνικὼς μετέβαλε τὸν τόνον ἐπεὶ τὸ ἀκόλουθον ἰγνύα ἔστιν ὡς <persName
+															n="urn:cite2:hmt:pers.v1:pers493">ἡρωιδιανος</persName>ν τῶι <num
+															value="11">ια</num>ῆς καθόλου ⁑</p>
+												</div>
+											</div>
+											<div
+												n="168r2"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>
+														<rs
+															n="urn:cite2:hmt:place.v1:place126"
+															type="ethnic">αἰτωλοῖσιν</rs>νασσε</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.218</p>
+												</div>
+												<div
+													n="comment">
+													<p>
+														<rs
+															n="urn:cite2:hmt:place.v1:place126"
+															type="ethnic">αἱτωλὸς</rs>αῖς μὲν ἤν <persName
+															n="urn:cite2:hmt:pers.v1:pers644">ἐνδυμίωνος</persName>ς ἀκούσιον φόνον δράσας ἔφυγεν εἰς τὴν
+														ἀπ αυτοῦ προσαγορευθεῖσαν <placeName
+															n="urn:cite2:hmt:place.v1:place126">αἰτωλίαν</placeName>ακεῖ τεκνοῦται <placeName
+															n="urn:cite2:hmt:place.v1:place282">πλευρῶνα</placeName>φ οῦ ἡ ἐν <placeName
+															n="urn:cite2:hmt:place.v1:place126">αιτωλίαι</placeName>όλις <placeName
+															n="urn:cite2:hmt:place.v1:place282">πλευρὼν</placeName>κλήθη τούτου δὲ γίγνονται δύο παῖδες ἀφ
+														ὦν ἄλλαι δύο πόλεις ἐν <placeName
+															n="urn:cite2:hmt:place.v1:place126">αιτωλίαι</placeName>ροσηγορευθησαν ⁑</p>
+												</div>
+											</div>
+											<div
+												n="168r3"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>ὦ <persName
+															n="urn:cite2:hmt:pers.v1:pers735">Θόαν</persName>
+													</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.222</p>
+												</div>
+												<div
+													n="comment">
+													<p>ὅτι σὺν τῷ <rs
+															type="waw">ν</rs> κλητική ἡ δὲ ἀναφορὰ προς τὸ <cit>
+															<ref>urn:cts:greekLit:tlg0012.tlg001.msA:1.86</ref>
+															<q>
+																<sic>ὅτε</sic>ὺ <persName
+																	n="urn:cite2:hmt:pers.v1:pers74">Κάλχαν</persName>
+															</q>
+														</cit>. ὅτι <persName
+															n="urn:cite2:hmt:pers.v1:pers15">Ζενόδοτοϛ</persName>ωρὶϛ τοῦ <rs
+															type="waw">ν</rs>
+													</p>
+												</div>
+											</div>
+											<div
+												n="168r4"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>ὀτρύνειϛ δὲ καὶ ἄλλον.</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.229</p>
+												</div>
+												<div
+													n="comment">
+													<p>ἐνεστῶϛ ἀντὶ παρῳχημένου τὸ <rs
+															type="waw">ὀτρύνειϛ</rs>· ὡς <cit>
+															<ref>urn:cts:greekLit:tlg0012.tlg001.msA:12.347</ref>
+															<q>ζαχρηεῖϛ τελέθουσιν</q>
+														</cit>ντι τοῦ <sic>ετέλεσθον</sic>αρῳχημένου ⁑</p>
+												</div>
+											</div>
 
         </body>
       </text>
