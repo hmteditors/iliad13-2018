@@ -3426,6 +3426,110 @@
 															n="urn:cite2:hmt:pers.v1:pers142">Αἰνείου</persName>πιόντος⁑</p>
 												</div>
 											</div>
+											<div
+												n="56"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>‡τῷ δ' ἐπι θυμῷ</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.485</p>
+												</div>
+												<div
+													n="comment">
+													<p>οὕτως αἱ <persName
+															n="urn:cite2:hmt:pers.v1:pers16">Ἀριστάρχου</persName>ιὰ τοῦ <rs
+															type="waw">π</rs>
+														<q>ἐπι θυμῷ</q>. καὶ πᾶσαι οὕτως εἶχον καὶ ἐν <title>
+															<ref
+																n="urn:cts:greekLit:tlg0012.tlg002:"
+																type="urn">Ὀδυσσείᾳ</ref>
+														</title>
+														<cit>
+															<ref
+																type="urn">urn:cts:greekLit:tlg0012.tlg002:16.99</ref>
+															<q>εἰ γὰρ ἐγὼν- οὕτω νέος εἴην τῷδ' ἐπὶ θυμῷ</q>
+														</cit>
+														<persName
+															n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδοτος</persName>ὲ <q>ὁμηλικίην</q>ὺν τῷ <rs
+															type="waw">ν</rs>γραφεν⁑</p>
+												</div>
+											</div>
+											<div
+												n="57"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>πιόμεν'. ἐκ βοτάνης-</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.493</p>
+												</div>
+												<div
+													n="comment">
+													<p>ὅτι <q>ἐκ βοτανης</q>στι μετὰ τὴν βόσκησιν ὡς λέγομεν ἐξ ἀρίστου παρέσομαι ἀντὶ τοῦ μετὰ
+														τὸ ἄριστον⁑</p>
+												</div>
+											</div>
+											<div
+												n="58"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>οἱ δ' ἀμφ <persName
+															n="urn:cite2:hmt:pers.v1:pers505">Αλκαθόω</persName>-</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.496</p>
+												</div>
+												<div
+													n="comment">
+													<p>πρὸς το <q>αὐτοσχεδόν</q>τι ὡς σχέδην καὶ συστάδην ἀγωνιούμενοι⁑</p>
+												</div>
+											</div>
+											<div
+												n="59"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>
+														<persName
+															n="urn:cite2:hmt:pers.v1:pers142">Αἰνείας</persName>ὲ πρῶτος-</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.502</p>
+												</div>
+												<div
+													n="comment">
+													<p>πρὸς τὸ σχῆμα ὅτι ἐλλείπει ἡ πρόθεσις καὶ πτῶσις ἤλλακται ἀντι τοῦ ὡς ἐπ <persName
+															n="urn:cite2:hmt:pers.v1:pers287">Ιδομενῆα</persName>
+														<persName
+															n="urn:cite2:hmt:pers.v1:pers21">Ἀριστοφάνειος</persName>, <q>πρόσθεν ἀκόντισε</q>αὶ μήποτε
+														βέλτιον πρότερος γὰρ ἂν εἶπεν⁑</p>
+												</div>
+											</div>
+											<div
+												n="60"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>ῥῆξε δὲ θώρηκος γύαλον:</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.507</p>
+												</div>
+												<div
+													n="comment">
+													<p>ὅτι οὐ κεχωρισμένος τοῦ θώρακος τόπος τὸ <q>γύαλον</q> ἀλλα καθόλου τὸ κύτος. καὶ γὰρ τὰ
+														κεκοιλωμένα ἄντρα γῦια καλοῦσιν⁑</p>
+												</div>
+											</div>
 
         </body>
       </text>
