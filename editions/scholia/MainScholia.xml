@@ -2402,6 +2402,120 @@
 														πότερον καύχησιν ἑτέρῳ δώσομεν, ἢ ἕτερος ἡμῖν ⁑</p>
 												</div>
 											</div>
+											<div
+												n="13"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>ταμεσίχροας,</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.340</p>
+												</div>
+												<div
+													n="comment">
+													<p>τμητικὸν τοῦ χρωτὸς παρὰ τὸ <q>ταμῶ</q>ῆμα οὗ μέλλον <q>ταμέσω</q>. ἠ ἀνέπτυξε ποιητικῶς
+														τὸ <q>τμησίχροας</q>
+													</p>
+												</div>
+											</div>
+											<div
+												n="14"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>ὃς τότε γηθήσειεν ϊδὼν πόνον</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.344</p>
+												</div>
+												<div
+													n="comment">
+													<p>πρὸς τὴν ἀλλαγὴν τοῦ ῥήματος ἀντι τοῦ <q>ἐγήθησεν</q>. καὶ ὅτι <q>πόνον</q>ὸ ἔργον. καὶ
+														ὅτι <choice>
+															<abbr>αντ</abbr>
+															<expan>ἀντικειμένως</expan>
+														</choice>ποδέδωκεν <q>οὐδ' ἀκάχοιτο</q>ρὸς τὸ σύνηθες ⁑</p>
+												</div>
+											</div>
+											<div
+												n="15"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>ἀνδράσιν ἡρώεσσι τετεύχετον:</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.346</p>
+												</div>
+												<div
+													n="comment">
+													<p>τι ἀντὶ τοῦ <q>τετευχέτην</q>, ή <q>τεύχουσι</q>ρόνος δὲ ἤλλακται ἔστιν γὰρ ἀντι τοῦ
+															<q>ἔτευχον</q>ς ἐπι τοῦ <cit>
+															<ref
+																type="urn">urn:cts:greekLit:tlg0012.tlg001:10.361</ref>
+															<q>ῆ κεμάδ' ἠὲ λαγωὸν ἐπείγετον</q>
+														</cit>
+														<choice>
+															<abbr>αντ</abbr>
+															<expan>ἀντὶ</expan>
+														</choice>
+														<q>ἤπειγον</q>
+													</p>
+												</div>
+											</div>
+											<div
+												n="16"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>ἀλλα <persName
+															n="urn:cite2:hmt:pers.v1:pers19">Θέτιν</persName>ύδαινε.</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.350</p>
+												</div>
+												<div
+													n="comment">
+													<p>θετεῖται ὅτι οὐκ ἀναγκαῖος- προείρηται γὰρ <cit>
+															<ref
+																type="urn">urn:cts:greekLit:tlg0012.tlg001:13.348</ref>
+															<q>κυδαίνων <persName
+																	n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλῆα</persName>όδας ταχύν</q>
+														</cit>
+													</p>
+												</div>
+											</div>
+											<div
+												n="17"
+												type="scholion">
+												<div
+													n="lemma">
+													<p>‡ λάθρη ὑπεξαναδὺς.</p>
+												</div>
+												<div
+													n="ref">
+													<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.351-13.353</p>
+												</div>
+												<div
+													n="comment">
+													<p>ὸ <q>λάθρῃ</q>, ἀμφοτέροις δύναται προσδίδοσθαι- τὸ δὲ ἑξῆς ἐστιν Ἀργείους δ' ὀρόθυνε <rs
+															n="urn:cite2:hmt:place.v1:place6"
+															type="ethnic">Τρωσὶ</rs>αμναμένους- τὸ δὲ <q>ἤχθετο γάρ ῥα</q>ιὰ μέσου- εἰ μὲν γὰρ
+														συνάπτομεν. <q>ἤχθετο γάρ ῥα <rs
+																n="urn:cite2:hmt:place.v1:place6"
+																type="ethnic">Τρωσὶ</rs>αμναμένους</q>ολοικοφανὴς μὲν γίνεται ἡ φράσις ἀρχαῖον δέ μοι
+														δοκεῖ τὸ σχῆμα εἶναι- καὶ ἀλλαχοῦ <cit>
+															<ref
+																type="urn">urn:cts:greekLit:tlg0012.tlg001:6.479-6.480</ref>
+															<q>καί ποτέ τις εἴποι πατρὸς δ' ὅγε πολλὸν ἀμείνω ἐκ πολεμου ἀνιόντα</q>
+														</cit>ὴν γὰρ ἔλλειψιν τοῦ <q>ὁρῶν</q>ὐ παραδεχόμεθα ⁑</p>
+												</div>
+											</div>
 
         </body>
       </text>
