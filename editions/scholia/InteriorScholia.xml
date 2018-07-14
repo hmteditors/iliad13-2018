@@ -714,7 +714,7 @@
 							<p>
 								<abbr>οὑτ</abbr>
 								<expan>οὑτῶς</expan> δια τοῦ <rs
-									n="waw">o</rs>
+									type="waw">ο</rs>
 								<persName
 									n="urn:cite2:hmt:pers.v1:pers16">
 									<choice>
@@ -725,11 +725,11 @@
 								<persName
 									n="urn:cite2:hmt:pers.v1:pers15">
 									<choice>
-										<abbr>Ζενοτ</abbr>
-										<expan>Ζενοδοτος</expan>
+										<abbr>Ζηνοδ</abbr>
+										<expan>Ζηνοδοτος</expan>
 									</choice>
 								</persName> δια τοῦ <rs
-									n="waw">α</rs>⁑</p>
+									type="waw">α</rs>⁑</p>
 						</div>
 					</div>
 					<div
@@ -934,7 +934,7 @@
 						<div
 							n="comment">
 							<p>oὕτως δια τοῦ <rs
-									n="waw">σ</rs> ὁ πέσον⁑</p>
+									type="waw">σ</rs> ὁ πέσον⁑</p>
 						</div>
 					</div>
 					<div
