@@ -1666,9 +1666,9 @@
 							<p><choice>
 									<abbr>χω</abbr>
 									<expan>χωρὶς</expan>
-								</choice> τοῦ ν̄ <cit>
+								</choice> τοῦ ν
 									<q>ἀνεκηκίει</q>
-								</cit> καὶ δια τοῦ ΐ̄.⁑</p>
+								 καὶ δια τοῦ ΐ.⁑</p>
 						</div>
 					</div>
 					<div
@@ -1695,12 +1695,12 @@
 								</choice><choice>
 									<abbr>χω</abbr>
 									<expan>χωρὶς</expan>
-								</choice> τοῦ ν̄ σφι,<choice>
+								</choice> τοῦ <rs type="waw">ν</rs> σφι,<choice>
 									<abbr><persName
 											n="urn:cite2:hmt:pers.v1:pers21">Ἀριστοφα</persName></abbr>
 									<expan><persName
 											n="urn:cite2:hmt:pers.v1:pers21">Ἀριστοφάνης</persName></expan>
-								</choice>δὲ σὺν τῷ ν̄</p>
+								</choice>δὲ σὺν τῷ <rs type="waw">ν</rs></p>
 						</div>
 					</div>
 					<div
@@ -1716,13 +1716,13 @@
 						</div>
 						<div
 							n="comment">
-							<p>ὅτι<choice>
+							<p>ὅτι <choice>
 									<abbr>θηλυκ</abbr>
 									<expan>θηλυκῶς</expan>
-								</choice><choice>
+								</choice> <choice>
 									<abbr>τ</abbr>
 									<expan>τὴν</expan>
-								</choice><q>Ïλιὸν</q>⁑</p>
+								</choice> <q>Ϊλιὸν</q> ⁑</p>
 						</div>
 					</div>
 					<div
