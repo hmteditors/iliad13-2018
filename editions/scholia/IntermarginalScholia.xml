@@ -629,9 +629,8 @@
 						<div
 							n="comment">
 							<p><persName
-									n="15">Ζηνοδοτος</persName>
-								<rs
-									type="waw">κατεήξαμεν</rs> δια τὸ καὶ ἐν τοῖς ἔμπροσθεν <cit>
+									n="urn:cite2:hmt:pers.v1:pers15"><choice><abbr>Ζηνοδ</abbr><expan>Ζηνόδοτος</expan></choice></persName>
+								<q>κατεήξαμεν</q> δια τὸ καὶ ἐν τοῖς ἔμπροσθεν <cit>
 									<ref
 										type="urn">urn:cts:greekLit:tlg0012.tlg001:13.166</ref>
 									<q>ὃ ξυνεήξε λέγειν</q>
@@ -652,8 +651,8 @@
 						</div>
 						<div
 							n="comment">
-							<p>οὐκ ἀπίθανον διαστέλλειν ἐπὶ τὸ <rs
-									type="waw">ἕν</rs> προς το σαφές.</p>
+							<p>ουκ ἀπίθανον διαστέλλειν ἐπι τὸ <rs
+									type="waw">ἑν</rs> προς το σαφές.</p>
 						</div>
 					</div>
 					<div
@@ -669,8 +668,10 @@
 						</div>
 						<div
 							n="comment">
-							<p>ὅτι πρόθεσις παρείται καὶ ἡ πτῶσις ήλλακται ἀντι τοῦ <rs
-									type="waw">περι τουτῶν διαλέγεσθαι</rs> ⁑</p>
+							<p><choice>
+								<abbr>οτ</abbr>
+								<expan>ὅτι</expan>
+							</choice> πρόθεσις παρείται καὶ ἡ πτῶσις ήλλακται ἀντι τοῦ <q>περι τουτῶν διαλέγεσθαι</q> ⁑</p>
 						</div>
 					</div>
 					<div
