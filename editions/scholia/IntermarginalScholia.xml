@@ -537,10 +537,7 @@
 						</div>
 						<div
 							n="comment">
-							<p>γράφεται καὶ <choice>
-									<abbr>ενθδ</abbr>
-									<expan>ἐνθάδε</expan>
-								</choice>
+							<p>γράφεται καὶ ενθα' δ'
 								<rs
 									n="urn:cite2:hmt:place.v1:place96"
 									type="ethnic">Ἀχαιοὺς</rs>
@@ -562,7 +559,7 @@
 						<div
 							n="comment">
 							<p>γράφεται καὶ ὅθι μεθιέντα <persName
-									n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδότος</persName> δὲ ότις μεθίῃσι πόνοιο ⁑</p>
+									n="urn:cite2:hmt:pers.v1:pers15"><choice><abbr>Ζηνοδότ</abbr><expan>Ζηνοδότος</expan></choice></persName> δὲ ότις μεθίῃσι πόνοιο ⁑</p>
 						</div>
 					</div>
 					<div

@@ -343,9 +343,8 @@
 						</div>
 						<div
 							n="comment">
-							<p>ὅτι <rs
-									type="waw">ἐπιστάμεθα</rs> αντὶ τοῦ <rs
-									type="waw">δυνάμεθα</rs>.</p>
+							<p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <q><choice><abbr>ἐπιστάμεθ</abbr><expan>ἐπιστάμεθα</expan></choice></q> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ
+							<q><choice><abbr>δυνάμεθ</abbr><expan>δυνάμεθα</expan></choice></q>.</p>
 						</div>
 					</div>
 					<div
@@ -361,10 +360,8 @@
 						</div>
 						<div
 							n="comment">
-							<p>ἔν τισι τῶν ἀντιγράφων διὰ τοῦ <rs
-									type="waw">δε</rs>
-								<rs
-									type="waw">οὐδέ</rs>.</p>
+							<p>ἔν τισι τῶν αντιγράφων δια τοῦ <q>δε
+								<choice><abbr>ουδ</abbr><expan>οὐδέ</expan></choice></q>.</p>
 						</div>
 					</div>
 					<div
@@ -380,7 +377,7 @@
 						</div>
 						<div
 							n="comment">
-							<p>ὅτι ἀντι τοῦ <q>έοικε</q> τὸ <q>μέλλει</q>
+							<p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> ἀντι τοῦ <q>έοικε</q> τὸ <q>μέλλει</q>
 							</p>
 						</div>
 					</div>
