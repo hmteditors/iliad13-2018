@@ -185,8 +185,7 @@
 						</div>
 						<div
 							n="comment">
-							<p>αντὶ τοῦ <rs
-									type="waw">ἐκπλήθους</rs></p>
+							<p><choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ <q>ἐκπλήθους</q></p>
 						</div>
 					</div>
 					<div
@@ -202,8 +201,7 @@
 						</div>
 						<div
 							n="comment">
-							<p>λείπει <rs
-									type="waw">χάριν</rs></p>
+							<p>λείπει <q>χάριν</q></p>
 						</div>
 					</div>
 

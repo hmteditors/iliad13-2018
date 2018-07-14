@@ -576,8 +576,8 @@
 						<div
 							n="comment">
 							<p><persName
-									n="urn:cite2:hmt:pers.v1:pers15">Ζηνόδοτος</persName>
-								<q>συμφερτὴ δὲ βίη</q> ⁑</p>
+									n="urn:cite2:hmt:pers.v1:pers15"><choice><abbr>Ζηνοδ</abbr><expan>Ζηνόδοτος</expan></choice></persName>
+								<q>συμφερτος δὲ βίη</q> ⁑</p>
 						</div>
 					</div>
 					<div
@@ -594,7 +594,7 @@
 						<div
 							n="comment">
 							<p><persName
-									n="urn:cite2:hmt:pers.v1:pers15">Ζηνόδοτος</persName> καὶ <persName
+									n="urn:cite2:hmt:pers.v1:pers15"><choice><abbr>Ζηνοδ</abbr><expan>Ζηνόδοτος</expan></choice></persName> καὶ <persName
 									n="urn:cite2:hmt:pers.v1:pers21">Ἀριστοφανής</persName>
 								<q>ἐνιστήθεσσι</q> ⁑</p>
 						</div>
@@ -612,9 +612,7 @@
 						</div>
 						<div
 							n="comment">
-							<p> ἀντὶ <rs
-									type="waw">ἄγγελος</rs> οὕτως <rs
-									type="waw">ἀγγελίας</rs> ⁑</p>
+							<p> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> <q>ἄγγελος</q> <choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <q>ἀγγελίας</q> ⁑</p>
 						</div>
 					</div>
 					<div

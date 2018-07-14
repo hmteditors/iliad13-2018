@@ -396,10 +396,9 @@
 							n="comment">
 							<p>
 								<persName
-									n="urn:cite2:hmt:pers.v1:pers15">Ζηνόδοτος</persName> καὶ <persName
-									n="urn:cite2:hmt:pers.v1:pers21">Ἀριστοφάνης</persName>
-								<rs
-									type="waw">δουρικλυτός</rs> ⁑</p>
+									n="urn:cite2:hmt:pers.v1:pers15"><choice><abbr>Ζηνοδ</abbr><expan>Ζηνόδοτος</expan></choice></persName> καὶ <persName
+									n="urn:cite2:hmt:pers.v1:pers21"><choice><abbr>Αριστοφα</abbr><expan>Ἀριστοφάνης</expan></choice></persName>
+								<q>δουρικλυτός</q> ⁑</p>
 						</div>
 					</div>
 					<div
