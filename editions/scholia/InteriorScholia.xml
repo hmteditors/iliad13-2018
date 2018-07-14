@@ -660,8 +660,8 @@
 						</div>
 						<div
 							n="comment">
-							<p>ὁ ϊόντα δια τοῦ <rs
-									n="waw">ϊ</rs> αἱ <persName
+							<p>ὁ <choice><abbr>ϊόντ</abbr><expan>ϊόντα</expan></choice> δια τοῦ <rs
+									type="waw">ϊ</rs> αἱ <persName
 									n="urn:cite2:hmt:pers.v1:pers16">
 									<choice>
 										<abbr>Αρισταρχ</abbr>
@@ -687,7 +687,7 @@
 							<p>
 								<abbr>οὑτ</abbr>
 								<expan>οὑτῶς</expan> δια τοῦ <rs
-									n="waw">ε</rs> ἁι <persName
+									type="waw">ε</rs> ἁι <persName
 									n="urn:cite2:hmt:pers.v1:pers16">
 									<choice>
 										<abbr>Αρισταρχ</abbr>
@@ -695,7 +695,7 @@
 									</choice>
 								</persName>
 								<q>στενάχοντε</q>- οὐ δια τοῦ <rs
-									n="waw">α</rs> ἐπι τοῦ νεκροῦ γέλοιον γὰρ ἀλλ' επι τῶν βασταξοντων ⁑</p>
+									type="waw">α</rs> ἐπι τοῦ νεκροῦ γέλοιον γὰρ ἀλλ' επι τῶν βασταξοντων ⁑</p>
 						</div>
 					</div>
 					<div
