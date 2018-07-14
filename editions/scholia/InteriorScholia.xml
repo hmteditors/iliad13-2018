@@ -517,25 +517,23 @@
 						<div
 							n="comment">
 							<p>
-								<choice>
+								<persName
+									n="urn:cite2:hmt:pers:pers15"><choice>
 									<abbr>
-										<persName
-											n="urn:cite2:hmt:pers:pers15">Ζηνοδ</persName>
+										Ζηνοδ
 									</abbr>
 									<expan>
-										<persName
-											n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName>
+										Ζηνόδοτος
 									</expan>
-								</choice> καὶ <choice>
+								</choice></persName> καὶ <persName
+									n="urn:cite2:hmt:pers:pers21"><choice>
 									<abbr>
-										<persName
-											n="urn:cite2:hmt:pers:pers21">Αριστ</persName>
+										Αριστ
 									</abbr>
 									<expan>
-										<persName
-											n="urn:cite2:hmt:pers:pers21">Ἀριστοφάνης</persName>
+										Ἀριστοφάνης
 									</expan>
-								</choice>
+								</choice></persName>
 								<q>ώτρυνε</q> ⁑</p>
 						</div>
 					</div>
