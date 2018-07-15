@@ -1264,49 +1264,8 @@
 									</choice></persName>- <q>τῷ δ' ἐπὶ θυμῶι</q></p>
 						</div>
 					</div>
-					<div
-						n="29"
-						type="scholion">
-						<div
-							n="lemma">
-							<p/>
-						</div>
-						<div
-							n="ref">
-							<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.465</p>
-						</div>
-						<div
-							n="comment">
-							<p><choice>
-									<abbr>οτ</abbr>
-									<expan>ὁτὶ</expan>
-								</choice>
-								<choice>
-									<abbr>αντ</abbr>
-									<expan>αντὶ</expan>
-								</choice> τοῦ ἐπαμύνωμεν :</p>
-						</div>
-					</div>
-					<div
-						n="30"
-						type="scholion">
-						<div
-							n="lemma">
-							<p/>
-						</div>
-						<div
-							n="ref">
-							<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.485</p>
-						</div>
-						<div
-							n="comment">
-							<p><persName
-									n="urn:cite2:hmt:pers:pers16"><choice>
-										<abbr>Άριστχου</abbr>
-										<expan>Άρίσταρχου</expan>
-									</choice></persName>- τῷ δ'επι θυμῷ</p>
-						</div>
-					</div>
+
+		
 					<div
 						n="31"
 						type="scholion">
