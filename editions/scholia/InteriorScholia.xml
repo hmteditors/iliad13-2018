@@ -920,6 +920,42 @@
 							<p>ὁ πόλεμος κυρίως δι ὸν ἡ τρῶσις.</p>
 						</div>
 					</div>
+
+<!-- missing interiors on 175v? -->
+<div
+	n="B1"
+	type="scholion">
+	<div
+		n="lemma">
+		<p/>
+	</div>
+	<div
+		n="ref">
+		<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.600</p>
+	</div>
+	<div
+		n="comment">
+		<p>ἔφερε τῷ αγήνορι ⁑</p>
+	</div>
+</div>
+<div
+	n="B2"
+	type="scholion">
+	<div
+		n="lemma">
+		<p/>
+	</div>
+	<div
+		n="ref">
+		<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+	</div>
+	<div
+		n="comment">
+		<p><persName n="urn:cite2:hmt:pers.v1:pers15"><choice><abbr>Ζηνοδ</abbr><expan>Ζηνόδοτος</expan></choice> </persName> μέγα δ' ἠλπε το νικην ⁑</p>
+	</div>
+</div>
+
+
 					<div
 						n="A3"
 						type="scholion">
@@ -934,7 +970,7 @@
 						<div
 							n="comment">
 							<p>oὕτως δια τοῦ <rs
-									type="waw">σ</rs> ὁ πέσον⁑</p>
+									type="waw">σ</rs> ὁ πέσον ⁑</p>
 						</div>
 					</div>
 					<div
